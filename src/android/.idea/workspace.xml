@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="916b6b3a-5e8b-4f49-80d1-4a89c04f08ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hooks/windows/check-arch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QRScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/QRScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windows/QRReader/CameraRotationHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windows/QRReader/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windows/QRReader/QRReader.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windows/QRReader/QRReader.csproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windows/QRReader/Reader.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windows/QRReader/VideoCapture.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windows/QRReader/lib/ZXing.winmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windows/QRReader/project.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windows/QRReader/project.lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windows/QRScanner.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windows/lib/preview.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windows/lib/preview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windows/lib/qrScanner.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1vjaMFgwx09G7cHPxvaajEvq3OX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="916b6b3a-5e8b-4f49-80d1-4a89c04f08ac" name="Default Changelist" comment="" />
+      <created>1627077902174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627077902174</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

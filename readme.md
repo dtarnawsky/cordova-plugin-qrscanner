@@ -450,7 +450,6 @@ This will create a new cordova project in the `cordova-plugin-test-projects` dir
 - `npm run test:android`
 - `npm run test:browser`
 - `npm run test:ios`
-- `npm run test:windows`
 
 Both Automatic Tests (via Cordova Plugin Test Framework's built-in [Jasmine](https://github.com/jasmine/jasmine)) and Manual Tests are available. Automatic tests confirm the existence and expected structure of the javascript API, and manual tests should be used to confirm functionality on each platform.
 

@@ -21,7 +21,6 @@
     "test:ios": "cd ../cordova-plugin-test-projects/cordova-plugin-qrscanner-tests && npm run test:ios",
     "test:android": "cd ../cordova-plugin-test-projects/cordova-plugin-qrscanner-tests && npm run test:android",
     "test:browser": "cd ../cordova-plugin-test-projects/cordova-plugin-qrscanner-tests && npm run test:browser",
-    "test:windows": "cd ../cordova-plugin-test-projects/cordova-plugin-qrscanner-tests && npm run test:windows",
     "test:library": "npm run build && node tests/library/test.js",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
     "commitmsg": "validate-commit-msg",
@@ -54,8 +53,8 @@
   "homepage": "https://github.com/bitpay/cordova-plugin-qrscanner",
   "main": "dist/cordova-plugin-qrscanner-lib.min.js",
   "dependencies": {
-    "qrcode-reader": "^1.0.4",
-    "webrtc-adapter": "^3.1.4"
+    "qrcode-reader": "1.0.4",
+    "webrtc-adapter": "3.1.4"
   },
   "devDependencies": {
     "conventional-changelog-cli": "^1.2.0",
